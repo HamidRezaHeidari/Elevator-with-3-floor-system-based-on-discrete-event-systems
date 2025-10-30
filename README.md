@@ -1,4 +1,4 @@
-🎯 Discrete Envent System (DES) Model 
+## 🎯 Discrete Envent System (DES) Model 
 
 The objective of this project is to model and simulate discrete event systems (DES) to analyze their performance and control logic under event-driven behavior.
 In a DES, system states change only at discrete points in time, triggered by specific events such as arrivals, departures, or state transitions.
@@ -21,11 +21,8 @@ The system is designed to minimize waiting time and idle travel while ensuring s
 ## 📊 Results
 
 Simulation outcomes revealed that:
-
 The washing machine DES successfully followed the designed event sequence and timing, proving effective for modeling cyclic processes.
-
 The elevator DES handled random passenger requests efficiently, demonstrating event-based scheduling and queue optimization capabilities.
-
 Both systems validated the power of DES modeling in capturing real-world discrete, asynchronous behaviors.
  
 ## 🧠 Tools & Environment   
